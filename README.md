@@ -1,2 +1,2 @@
-# T7---Deployment-Exercise
-I used GitHub Codespaces to launch a cloud development environment directly from the repository. Inside this workspace, I configured the environment and verified the application build. Finally, I used the integrated terminal to securely push the project files and trigger the live deployment.
+<img width="2553" height="1352" alt="image" src="https://github.com/user-attachments/assets/46c99732-af35-4fdc-812a-39949ec545f8" /># T7---Deployment-Exercise
+I used GitHub Codespaces to launch a cloud development environment directly from the repository to deploy my HTML website. Inside this workspace, I configured the environment, verified the files, and used the integrated terminal to securely push the project and trigger the live deployment.
